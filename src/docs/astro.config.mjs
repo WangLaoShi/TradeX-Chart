@@ -21,12 +21,12 @@ export default defineConfig({
           autogenerate: { directory: 'reference' },
         },
         {
-          label: 'Examples',
-          autogenerate: { directory: 'examples' },
-        },
-        {
           label: 'Guides',
           autogenerate: { directory: 'guides' },
+        },
+        {
+          label: 'Examples',
+          autogenerate: { directory: 'examples' },
         },
         {
           label: 'API',
