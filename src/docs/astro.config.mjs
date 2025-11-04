@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://tradex-app.github.io',
+  site: 'www.dtale.cn/TradeX-Chart/',
   base: '/TradeX-chart',
   integrations: [
     starlight({
@@ -11,7 +11,7 @@ export default defineConfig({
       customCss: [ '/src/styles/custom.css', ],
       logo: { src: '/src/assets/tx.svg' },
       social: {
-        github: 'https://github.com/tradex-app/TradeX-chart',
+        github: 'https://github.com/WangLaoShi/TradeX-Chart',
         discord: 'https://discord.com/channels/1039287962510311434/1039288750913634405'
       },
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 4 },
@@ -23,11 +23,6 @@ export default defineConfig({
         {
           label: 'Guides',
           autogenerate: { directory: 'guides' },
-
-          // items: [
-          //   // Each item here is one entry in the navigation menu.
-          //   { label: 'Example Guide', link: '/guides/example/' },
-          // ],
         },
         {
           label: 'Reference',
@@ -36,9 +31,6 @@ export default defineConfig({
         {
           label: 'API',
           autogenerate: { directory: 'api' },
-          // items: [
-          //   { label: 'Axis', link: 'api/Axis' },
-          // ]
         },
       ],
     }),
