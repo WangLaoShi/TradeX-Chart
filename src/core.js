@@ -310,7 +310,7 @@ export default class TradeXchart extends Tradex_chart {
     this.#stateClass = State
     this.#toolbox = new Toolbox(this)
 
-    this.warn(`!WARNING!: ${NAME} changes to config format, for details please refer to https://github.com/tradex-app/TradeX-chart/blob/master/docs/notices.md`)
+    this.warn(`!WARNING!: ${NAME} changes to config format, for details please refer to https://github.com/tradex-app/TradeX-Chart/blob/master/docs/notices.md`)
     this.log(`${SHORTNAME} instance count: ${this.inCnt}`)
 
     this.oncontextmenu = window.oncontextmenu

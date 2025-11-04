@@ -12,14 +12,14 @@ There are many ways to contribute to TradeX Chart:
 ### 🐛 Report Bugs
 
 Found a bug? Help us fix it:
-- Check if it's already reported in [GitHub Issues](https://github.com/tradex-app/TradeX-chart/issues)
+- Check if it's already reported in [GitHub Issues](https://github.com/tradex-app/TradeX-Chart/issues)
 - Create a detailed bug report with reproduction steps
 - Include browser version, OS, and TradeX Chart version
 
 ### ✨ Suggest Features
 
 Have an idea for improvement?
-- Check existing [feature requests](https://github.com/tradex-app/TradeX-chart/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+- Check existing [feature requests](https://github.com/tradex-app/TradeX-Chart/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 - Open a new issue with the "enhancement" label
 - Describe the use case and expected behavior
 
@@ -71,17 +71,17 @@ Follow the [Local Setup Guide](development/local-setup) to:
 ### 2. Find Something to Work On
 
 **Good first issues**:
-- Look for issues labeled [`good first issue`](https://github.com/tradex-app/TradeX-chart/labels/good%20first%20issue)
+- Look for issues labeled [`good first issue`](https://github.com/tradex-app/TradeX-Chart/labels/good%20first%20issue)
 - These are beginner-friendly tasks
 - Great for first-time contributors
 
 **Help wanted**:
-- Issues labeled [`help wanted`](https://github.com/tradex-app/TradeX-chart/labels/help%20wanted)
+- Issues labeled [`help wanted`](https://github.com/tradex-app/TradeX-Chart/labels/help%20wanted)
 - Community contributions are especially welcome
 - May require more experience
 
 **Browse the roadmap**:
-- Check the [project roadmap](https://github.com/tradex-app/TradeX-chart/projects)
+- Check the [project roadmap](https://github.com/tradex-app/TradeX-Chart/projects)
 - See what features are planned
 - Pick something that interests you
 
@@ -385,7 +385,7 @@ We are committed to providing a welcoming and inclusive environment:
 We value all contributions:
 
 ### Contributors List
-- All contributors are listed in [CONTRIBUTORS.md](https://github.com/tradex-app/TradeX-chart/blob/main/CONTRIBUTORS.md)
+- All contributors are listed in [CONTRIBUTORS.md](https://github.com/tradex-app/TradeX-Chart/blob/main/CONTRIBUTORS.md)
 - Your GitHub profile will be linked
 
 ### Release Notes
@@ -400,7 +400,7 @@ We value all contributions:
 
 ### License
 
-By contributing, you agree that your contributions will be licensed under the [GNU GPL3 License](https://github.com/tradex-app/TradeX-chart/blob/main/LICENSE).
+By contributing, you agree that your contributions will be licensed under the [GNU GPL3 License](https://github.com/tradex-app/TradeX-Chart/blob/main/LICENSE).
 
 ### Copyright
 
@@ -487,7 +487,7 @@ Thank you for your continued support:
 ## Next Steps
 
 1. **Set up your environment** - Follow the [Local Setup Guide](development/local-setup)
-2. **Find an issue** - Browse [good first issues](https://github.com/tradex-app/TradeX-chart/labels/good%20first%20issue)
+2. **Find an issue** - Browse [good first issues](https://github.com/tradex-app/TradeX-Chart/labels/good%20first%20issue)
 3. **Join Discord** - Connect with the community
 4. **Make your first contribution** - Start small and learn
 5. **Keep contributing** - Become a regular contributor

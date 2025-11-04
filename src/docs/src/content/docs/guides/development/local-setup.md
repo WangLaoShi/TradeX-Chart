@@ -399,7 +399,7 @@ Now that your environment is set up:
 
 If you encounter issues:
 
-- Check [GitHub Issues](https://github.com/tradex-app/TradeX-chart/issues)
+- Check [GitHub Issues](https://github.com/tradex-app/TradeX-Chart/issues)
 - Ask in [Discord](https://discord.gg/6XS9tDrcdq)
 - Review [FAQ](../faq)
 - Read [Troubleshooting](debugging-tips)

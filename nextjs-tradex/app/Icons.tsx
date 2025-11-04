@@ -15,7 +15,7 @@ const Icons = () => {
       </div>
       <div className="flex flex-row gap-1">
         <a
-          href="https://github.com/tradex-app/TradeX-chart/blob/master/LICENSE"
+          href="https://github.com/tradex-app/TradeX-Chart/blob/master/LICENSE"
           title="License"
         >
           <img

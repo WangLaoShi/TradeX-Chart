@@ -11,73 +11,73 @@ Fixed
 
 * Export chart snapshot - main pane position, divider line colour
 
-## [0.139.5](https://github.com/tradex-app/TradeX-chart/commit/7e3c6305456dfcc7b8a0ea82628b75c3d19875dc)
+## [0.139.5](https://github.com/tradex-app/TradeX-Chart/commit/7e3c6305456dfcc7b8a0ea82628b75c3d19875dc)
 
 Added
 
 * Export chart snapshot with watermark
 
-## [0.139.4](https://github.com/tradex-app/TradeX-chart/commit/90bd0dc3e0475c2ace2f81e84087b7b0a0c72698)
+## [0.139.4](https://github.com/tradex-app/TradeX-Chart/commit/90bd0dc3e0475c2ace2f81e84087b7b0a0c72698)
 
 Fixed
 
 * Divider width on global_resize
 * Menu y positioning on global_resize
 
-## [0.139.3](https://github.com/tradex-app/TradeX-chart/commit/084145492fe236f669137c4c3247bad513fe7d69)
+## [0.139.3](https://github.com/tradex-app/TradeX-Chart/commit/084145492fe236f669137c4c3247bad513fe7d69)
 
 Fixed
 
 * Menu x positioning on global_resize
 
 
-## [0.139.2](https://github.com/tradex-app/TradeX-chart/commit/cf3d2da9672fdd5b62f3d580e3a298405bc383fb)
+## [0.139.2](https://github.com/tradex-app/TradeX-Chart/commit/cf3d2da9672fdd5b62f3d580e3a298405bc383fb)
 
 Fixed
 
 * Divider styling
 
-## [0.139.1](https://github.com/tradex-app/TradeX-chart/commit/3a0fb48b06543eb58510543aff01f62149e33137)
+## [0.139.1](https://github.com/tradex-app/TradeX-Chart/commit/3a0fb48b06543eb58510543aff01f62149e33137)
 
 Fixed
 
 * Spurious import causing failure
 
-## [0.139.0](https://github.com/tradex-app/TradeX-chart/commit/824ebf646c510dac986eca3c85bc3d7b8186f8ec)
+## [0.139.0](https://github.com/tradex-app/TradeX-Chart/commit/824ebf646c510dac986eca3c85bc3d7b8186f8ec)
 
 Added
 
 * Chart Pane - collapse, expand
 
-## [0.138.4](https://github.com/tradex-app/TradeX-chart/commit/c808d41ea00375d69d3d8a96e5e26bcfd579c752)
+## [0.138.4](https://github.com/tradex-app/TradeX-Chart/commit/c808d41ea00375d69d3d8a96e5e26bcfd579c752)
 
 Updated
 
 * Indicator - Legend - controls
 
 
-## [0.138.3](https://github.com/tradex-app/TradeX-chart/commit/880365f923b2b4f7d0577f16fd03cfc3aa9ac420)
+## [0.138.3](https://github.com/tradex-app/TradeX-Chart/commit/880365f923b2b4f7d0577f16fd03cfc3aa9ac420)
 
 Updated
 
 * Chart Pane - Legend - controls - icons hover highlight
 
 
-## [0.138.2](https://github.com/tradex-app/TradeX-chart/commit/755f7d3eca65108afbbf5112a957077913d5d27a)
+## [0.138.2](https://github.com/tradex-app/TradeX-Chart/commit/755f7d3eca65108afbbf5112a957077913d5d27a)
 
 Updated
 
 * Chart Pane - Legend - controls - icons display
 
 
-## [0.138.1](https://github.com/tradex-app/TradeX-chart/commit/793ffb7693552b6480ba6341f58da34361f64558)
+## [0.138.1](https://github.com/tradex-app/TradeX-Chart/commit/793ffb7693552b6480ba6341f58da34361f64558)
 
 Fixed
 
 * Indicator AROON - legends - nicePrice()
 * Chart Pane Pairs - resize (divider)
 
-## [0.138.0](https://github.com/tradex-app/TradeX-chart/commit/bfb9039ec8be89fbb05801e2c7c0997f49e21f2a)
+## [0.138.0](https://github.com/tradex-app/TradeX-Chart/commit/bfb9039ec8be89fbb05801e2c7c0997f49e21f2a)
 
 Added
 
@@ -88,7 +88,7 @@ Updated
 * Documentation
 
 
-## [0.137.5](https://github.com/tradex-app/TradeX-chart/commit/88dcc06796889f6c6ee854c69a45190039c9943c)
+## [0.137.5](https://github.com/tradex-app/TradeX-Chart/commit/88dcc06796889f6c6ee854c69a45190039c9943c)
 
 Fixed
 
@@ -100,14 +100,14 @@ Added
 * idSanitize()
 
 
-## [0.137.4](https://github.com/tradex-app/TradeX-chart/commit/f4b1a381dd7c0f24b521bac3b33756852ac79a14) - 2023-08-10
+## [0.137.4](https://github.com/tradex-app/TradeX-Chart/commit/f4b1a381dd7c0f24b521bac3b33756852ac79a14) - 2023-08-10
 
 Fixed
 
 * Chart-Events - variables
 * Chart-Events & Chart-Trades - using wrong hit layer
 
-## [0.137.3](https://github.com/tradex-app/TradeX-chart/commit/b2c3d0a506becaa9c9b0f24c5b67efe5e57f918e) - 2023-08-10
+## [0.137.3](https://github.com/tradex-app/TradeX-Chart/commit/b2c3d0a506becaa9c9b0f24c5b67efe5e57f918e) - 2023-08-10
 
 Fixed
 
@@ -115,7 +115,7 @@ Fixed
 * Documentation
 
 
-## [0.137.2](https://github.com/tradex-app/TradeX-chart/commit/1538be7f2ec488c61766b5d49dd6c4726d90c987) - 2023-08-08
+## [0.137.2](https://github.com/tradex-app/TradeX-Chart/commit/1538be7f2ec488c61766b5d49dd6c4726d90c987) - 2023-08-08
 
 Fixed
 
@@ -128,20 +128,20 @@ Added
 * Chart to image URL ``toImageURL()``
 * Image download and data URL, image type options
 
-## [0.137.0](https://github.com/tradex-app/TradeX-chart/commit/c328a052c4354375a584b93a1031d69597b6bc58) - 2023.08-08
+## [0.137.0](https://github.com/tradex-app/TradeX-Chart/commit/c328a052c4354375a584b93a1031d69597b6bc58) - 2023.08-08
 
 Added
 
 * Chart Image Snapshot Download
 * CEL - layer composition
 
-## [0.136.0](https://github.com/tradex-app/TradeX-chart/commit/8da2af9e4c93c7bf3b0976e489412181f1c541ef) - 2023-08-05
+## [0.136.0](https://github.com/tradex-app/TradeX-Chart/commit/8da2af9e4c93c7bf3b0976e489412181f1c541ef) - 2023-08-05
 
 Added
 
 * High Low Marker
 
-## [0.135.0](https://github.com/tradex-app/TradeX-chart/commit/e26c7cbe7baaac45c9199a5d904e1cdb6fe7b9f9) - 2023-08-02
+## [0.135.0](https://github.com/tradex-app/TradeX-Chart/commit/e26c7cbe7baaac45c9199a5d904e1cdb6fe7b9f9) - 2023-08-02
 
 Added
 
@@ -159,25 +159,25 @@ Added
 * svgToImage()
 * isSVG()
 
-## [0.134.1](https://github.com/tradex-app/TradeX-chart/commit/920cee8320bd3fe49ce237c6d31368158f108afa) - 2023-07-31
+## [0.134.1](https://github.com/tradex-app/TradeX-Chart/commit/920cee8320bd3fe49ce237c6d31368158f108afa) - 2023-07-31
 
 Fixed
 
 * Dialogue window (not implemented message) opening when it shouldn't
 
-## [0.134.0]/(https://github.com/tradex-app/TradeX-chart/commit/91c9b3b649f6b5972ec8d51caddbcf41a9eddc39) - 2023-07-31
+## [0.134.0]/(https://github.com/tradex-app/TradeX-Chart/commit/91c9b3b649f6b5972ec8d51caddbcf41a9eddc39) - 2023-07-31
 
 Added
 
 * Trades - Overlay
 
-## [0.133.0](https://github.com/tradex-app/TradeX-chart/commit/91c9b3b649f6b5972ec8d51caddbcf41a9eddc39) - 2023-07-30
+## [0.133.0](https://github.com/tradex-app/TradeX-Chart/commit/91c9b3b649f6b5972ec8d51caddbcf41a9eddc39) - 2023-07-30
 
 Added
 
 * Legends - show / hide all
 
-## [0.132.3](https://github.com/tradex-app/TradeX-chart/commit/62ae8b2251a397bf98b1584b227e0688bcc45230) - 2023-07-29
+## [0.132.3](https://github.com/tradex-app/TradeX-Chart/commit/62ae8b2251a397bf98b1584b227e0688bcc45230) - 2023-07-29
 
 Fixed
 
@@ -185,19 +185,19 @@ Fixed
 * Streaming candle range auto increment
 * FireFox render SVG to canvas
 
-## [0.132.2](https://github.com/tradex-app/TradeX-chart/commit/86fdd1321ed6b2e6fbdf8c8c21826945d36cde90) - 2023-07-25
+## [0.132.2](https://github.com/tradex-app/TradeX-Chart/commit/86fdd1321ed6b2e6fbdf8c8c21826945d36cde90) - 2023-07-25
 
 Fixed
 
 * addChartIndicator()
 
-## [0.132.1](https://github.com/tradex-app/TradeX-chart/commit/7593ac62f7b887900ac6834a6b0de9264bfe9722) - 2023-07-22
+## [0.132.1](https://github.com/tradex-app/TradeX-Chart/commit/7593ac62f7b887900ac6834a6b0de9264bfe9722) - 2023-07-22
 
 Fixed
 
 * Config - range - center option
 
-## [0.131.1](https://github.com/tradex-app/TradeX-chart/commit/e178d98a129a1154f2a738aacb5dfcefdc95919c) - 2023-07-21
+## [0.131.1](https://github.com/tradex-app/TradeX-Chart/commit/e178d98a129a1154f2a738aacb5dfcefdc95919c) - 2023-07-21
 
 Added
 

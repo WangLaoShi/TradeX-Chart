@@ -50,7 +50,7 @@ A distinct section of the chart that can contain price data or indicators. Types
 - **Secondary Pane**: Additional panes for indicators (e.g., RSI, MACD)
 
 ### Config
-The configuration object passed to [chart.start()](cci:1://file:///home/neoarttec/Programming-Local/TradeX-chart/src/components/chart.js:254:2-305:3) that defines chart behavior, appearance, and initial state.
+The configuration object passed to [chart.start()](cci:1://file:///home/neoarttec/Programming-Local/TradeX-Chart/src/components/chart.js:254:2-305:3) that defines chart behavior, appearance, and initial state.
 
 ### Core
 The central component of TradeX Chart that manages state, events, and coordinates all other components.
@@ -284,4 +284,4 @@ The action of changing the visible time range by increasing or decreasing the nu
 
 ## Contributing
 
-Found a term that should be added to this glossary? [Open an issue](https://github.com/tradex-app/TradeX-chart/issues) or submit a pull request!
+Found a term that should be added to this glossary? [Open an issue](https://github.com/tradex-app/TradeX-Chart/issues) or submit a pull request!

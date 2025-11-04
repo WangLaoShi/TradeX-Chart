@@ -44,19 +44,19 @@ Current version: **0.158.6**
 
 ## Bugs, Issues, and Feature Requests
 
-Testing, [bug reports, and feature requests](https://github.com/tradex-app/TradeX-chart/issues) are welcome!
+Testing, [bug reports, and feature requests](https://github.com/tradex-app/TradeX-Chart/issues) are welcome!
 
 If you have any bugs/issues/feature requests, please, before making a submission, first check:
-* check the GitHub issue tracker: https://github.com/tradex-app/TradeX-chart/issues
-* documentation: https://tradex-app.github.io/TradeX-chart/
+* check the GitHub issue tracker: https://github.com/tradex-app/TradeX-Chart/issues
+* documentation: http://www.dtale.cn/TradeX-Chart/
 * live examples: https://tradex-chart.guildmedia.net/examples/static_chart/
-* development roadmap: https://tradex-app.github.io/TradeX-chart/TradeX-chart-Development-Roadmap.pdf
+* development roadmap: http://www.dtale.cn/TradeX-Chart/TradeX-chart-Development-Roadmap.pdf
 
 To contribute:
-* [Fork the chart repository](https://github.com/tradex-app/TradeX-chart/fork)
+* [Fork the chart repository](https://github.com/tradex-app/TradeX-Chart/fork)
 * Create your Feature Branch: `git checkout -b feature/AmazingFeature`
 * Commit your Changes: `git commit -m 'Add some AmazingFeature'`
 * Push to the Branch: `git push origin feature/AmazingFeature`
-* Open a [Pull Request](https://github.com/tradex-app/TradeX-chart/pulls)
+* Open a [Pull Request](https://github.com/tradex-app/TradeX-Chart/pulls)
 
 You can help speed up development by contributing with crypto or PayPal.

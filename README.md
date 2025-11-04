@@ -100,7 +100,7 @@ Types provided
 ## Documentation
 
 Documentation can be found here:
-[Documentation](https://tradex-app.github.io/TradeX-chart/)
+[Documentation](http://www.dtale.cn/TradeX-Chart/)
 
 or built and run locally from the repository by running:
 
@@ -123,44 +123,44 @@ Editable sandbox examples can found on [CodeSandbox.io](https://codesandbox.io/u
 ## Features
 
 * Plain JavaScript with no framework dependencies
-* All chart features and functions accessible via [API](https://tradex-app.github.io/TradeX-chart/api/core/)
-* [State object](https://tradex-app.github.io/TradeX-chart/reference/state/) defines [chart configuration](https://tradex-app.github.io/TradeX-chart/reference/02_configuration/), [indicators](https://tradex-app.github.io/TradeX-chart/reference/indicators_default/) and tools
-* State can be [imported](https://https://tradex-app.github.io/TradeX-chart/reference/state/#create-and-use-a-state) or [exported](https://tradex-app.github.io/TradeX-chart/reference/state/#export) for storage and retrieval
+* All chart features and functions accessible via [API](http://www.dtale.cn/TradeX-Chart/api/core/)
+* [State object](http://www.dtale.cn/TradeX-Chart/reference/state/) defines [chart configuration](http://www.dtale.cn/TradeX-Chart/reference/02_configuration/), [indicators](http://www.dtale.cn/TradeX-Chart/reference/indicators_default/) and tools
+* State can be [imported](https://http://www.dtale.cn/TradeX-Chart/reference/state/#create-and-use-a-state) or [exported](http://www.dtale.cn/TradeX-Chart/reference/state/#export) for storage and retrieval
 * Indicator calculation provided by [talib-web](https://https://anchegt.github.io/talib-web/) as a WebAssembly module.
-* [Custom Themes](https://tradex-app.github.io/TradeX-chart/reference/themes/)
-* [Custom Indicators](https://tradex-app.github.io/TradeX-chart/reference/indicators_default/https:/)
-* [Custom Overlays](https://tradex-app.github.io/TradeX-chart/reference/overlays_custom/https:/)
+* [Custom Themes](http://www.dtale.cn/TradeX-Chart/reference/themes/)
+* [Custom Indicators](http://www.dtale.cn/TradeX-Chart/reference/indicators_default/https:/)
+* [Custom Overlays](http://www.dtale.cn/TradeX-Chart/reference/overlays_custom/https:/)
 * Custom Drawing Tools (to be implemented)
-* [Event Hub](https://tradex-app.github.io/TradeX-chart/reference/events/) - subscribe to chart events
+* [Event Hub](http://www.dtale.cn/TradeX-Chart/reference/events/) - subscribe to chart events
 * Rendering Optimization - smooth performance
 * High frequency chart candles updates
-* [Export chart to png, jpg](https://tradex-app.github.io/TradeX-chart/reference/api-examples/#download-image), webp, with optional watermarking
+* [Export chart to png, jpg](http://www.dtale.cn/TradeX-Chart/reference/api-examples/#download-image), webp, with optional watermarking
 
 ## Support
 
 For the latest news on TradeX-chart, feedback, feature requests, and community, join us over on Discord or GitHub.
 
 * [TradeX Discord](https://discord.gg/6XS9tDrcdq)
-* [Issue Tracker](https://github.com/tradex-app/TradeX-chart/issues)
-* [GitHub](https://github.com/tradex-app/TradeX-chart/discussions)
+* [Issue Tracker](https://github.com/tradex-app/TradeX-Chart/issues)
+* [GitHub](https://github.com/tradex-app/TradeX-Chart/discussions)
 * [Discord](https://discord.gg/6XS9tDrcdq)
 
 ## Contributing
 
-Testing, [bug reports and feature requests](https://github.com/tradex-app/TradeX-chart/issues) welcome
+Testing, [bug reports and feature requests](https://github.com/tradex-app/TradeX-Chart/issues) welcome
 
 If you have any bugs, issues, or feature requests, please, before making a submission, first:
-* [check the GitHub issue tracker](https://github.com/tradex-app/TradeX-chart/issues)
-* [documentation](https://tradex-app.github.io/TradeX-chart/)
+* [check the GitHub issue tracker](https://github.com/tradex-app/TradeX-Chart/issues)
+* [documentation](http://www.dtale.cn/TradeX-Chart/)
 * [live examples](https://tradex-chart.guildmedia.net/examples/static_chart/)
-* [development roadmap](https://github.com/tradex-app/TradeX-chart/blob/master/docs/TradeX-chart-Development-Roadmap.pdf)
+* [development roadmap](https://github.com/tradex-app/TradeX-Chart/blob/master/docs/TradeX-chart-Development-Roadmap.pdf)
 
 To submit an issue:
-* [Fork the chart repostitory](https://github.com/tradex-app/TradeX-chart/fork)
+* [Fork the chart repostitory](https://github.com/tradex-app/TradeX-Chart/fork)
 * Create your Feature Branch ``git checkout -b feature/AmazingFeature``
 * Commit your Changes ``git commit -m 'Add some AmazingFeature'``
 * Push to the Branch ``git push origin feature/AmazingFeature``
-* Open a [Pull Request](https://github.com/tradex-app/TradeX-chart/pulls)
+* Open a [Pull Request](https://github.com/tradex-app/TradeX-Chart/pulls)
 
 You can help speed up development by contributing with crypto or PayPal.
 

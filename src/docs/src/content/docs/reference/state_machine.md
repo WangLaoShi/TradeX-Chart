@@ -58,7 +58,7 @@ const definiton = {
 }
 ```
 :::note
-[The States used by the chart](https://github.com/tradex-app/TradeX-chart/tree/master/src/state) can be for practical reference.
+[The States used by the chart](https://github.com/tradex-app/TradeX-Chart/tree/master/src/state) can be for practical reference.
 :::
 
 ## Further Reading on State Machines

@@ -62,15 +62,15 @@
     "timeline",
     "klinechart"
   ],
-  "homepage": "https://tradex-app.github.io/TradeX-chart/",
+  "homepage": "http://www.dtale.cn/TradeX-Chart/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tradex-app/TradeX-chart"
+    "url": "http://www.dtale.cn/TradeX-Chart"
   },
   "bugs": {
-    "url": "https://github.com/tradex-app/TradeX-chart/issues"
+    "url": "https://github.com/WangLaoShi/TradeX-Chart/issues"
   },
   "documentation": {
-    "url": "https://tradex-app.github.io/TradeX-chart/"
+    "url": "http://www.dtale.cn/TradeX-Chart/"
   }
 }

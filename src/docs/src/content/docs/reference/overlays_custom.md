@@ -45,7 +45,7 @@ class CustomOverlay extends Overlay {
 }
 ```
 
-Please refer to the [default overlays in the repository](https://github.com/tradex-app/TradeX-chart/tree/master/src/components/overlays) as examples of what can be done with an overlay.
+Please refer to the [default overlays in the repository](https://github.com/tradex-app/TradeX-Chart/tree/master/src/components/overlays) as examples of what can be done with an overlay.
 
 ### What Overlay Class Provides
 

@@ -23,16 +23,16 @@ TradeX Chart follows [Semantic Versioning](https://semver.org/) with the format:
 
 ## Recent Releases
 
-### [v0.158.6](https://github.com/tradex-app/TradeX-chart/releases) (Current)
+### [v0.158.6](https://github.com/tradex-app/TradeX-Chart/releases) (Current)
 
 Latest published version with documentation improvements and bug fixes.
 
-### [v0.143.0](https://github.com/tradex-app/TradeX-chart/releases)
+### [v0.143.0](https://github.com/tradex-app/TradeX-Chart/releases)
 
 **Added**
 - Indicator configuration dialogue
 
-### [v0.139.0](https://github.com/tradex-app/TradeX-chart/releases)
+### [v0.139.0](https://github.com/tradex-app/TradeX-Chart/releases)
 
 **Added**
 - Chart pane collapse/expand functionality
@@ -43,7 +43,7 @@ Latest published version with documentation improvements and bug fixes.
 - Menu positioning on resize
 - Divider styling improvements
 
-### [v0.138.0](https://github.com/tradex-app/TradeX-chart/releases)
+### [v0.138.0](https://github.com/tradex-app/TradeX-Chart/releases)
 
 **Added**
 - AROON indicator
@@ -61,15 +61,15 @@ Latest published version with documentation improvements and bug fixes.
 
 For a complete version history with all changes, see:
 
-- **[GitHub Releases](https://github.com/tradex-app/TradeX-chart/releases)** - Detailed release notes
-- **[CHANGELOG.md](https://github.com/tradex-app/TradeX-chart/blob/master/CHANGELOG.md)** - Complete version history
+- **[GitHub Releases](https://github.com/tradex-app/TradeX-Chart/releases)** - Detailed release notes
+- **[CHANGELOG.md](https://github.com/tradex-app/TradeX-Chart/blob/master/CHANGELOG.md)** - Complete version history
 
 ## Release Channels
 
 ### Stable
 Production-ready releases available via:
 - [NPM](https://www.npmjs.com/package/tradex-chart)
-- [GitHub Releases](https://github.com/tradex-app/TradeX-chart/releases)
+- [GitHub Releases](https://github.com/tradex-app/TradeX-Chart/releases)
 - [CDN (jsDelivr)](https://cdn.jsdelivr.net/npm/tradex-chart/dist/tradex-chart.umd.min.js)
 - [CDN (unpkg)](https://unpkg.com/tradex-chart/dist/tradex-chart.umd.js)
 
@@ -96,7 +96,7 @@ When significant changes occur, migration guides will be provided:
 
 ### Watch for Updates
 - ⭐ [Star the repository](https://github.com/tradex-app/TradeX-chart) on GitHub
-- 👀 [Watch releases](https://github.com/tradex-app/TradeX-chart/releases) for notifications
+- 👀 [Watch releases](https://github.com/tradex-app/TradeX-Chart/releases) for notifications
 - 💬 Join the [Discord community](https://discord.gg/6XS9tDrcdq)
 
 ### Subscribe to Releases
@@ -112,10 +112,10 @@ npm outdated tradex-chart
 
 Help improve TradeX Chart:
 
-- 🐛 [Report bugs](https://github.com/tradex-app/TradeX-chart/issues)
-- 💡 [Request features](https://github.com/tradex-app/TradeX-chart/issues)
-- 🔧 [Submit pull requests](https://github.com/tradex-app/TradeX-chart/pulls)
-- 📖 [Improve documentation](https://github.com/tradex-app/TradeX-chart/tree/master/docs)
+- 🐛 [Report bugs](https://github.com/tradex-app/TradeX-Chart/issues)
+- 💡 [Request features](https://github.com/tradex-app/TradeX-Chart/issues)
+- 🔧 [Submit pull requests](https://github.com/tradex-app/TradeX-Chart/pulls)
+- 📖 [Improve documentation](https://github.com/tradex-app/TradeX-Chart/tree/master/docs)
 
 ## Release Notes Format
 

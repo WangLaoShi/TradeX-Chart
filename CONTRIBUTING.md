@@ -37,7 +37,7 @@ We look forward to your new feature!
 We only accept issues that are bug reports or feature requests. Bugs must be isolated and reproducible problems that can be fixed within the Hammer.js.
 Please read the following guidelines before opening any issue.
 
-1. [**Read the documentation**](https://github.com/tradex-app/TradeX-chart/blob/master/docs/documentation.md) (work in progress)
+1. [**Read the documentation**](https://github.com/tradex-app/TradeX-Chart/blob/master/docs/documentation.md) (work in progress)
 
 2. **Create an isolated and reproducible test case.** Be sure the problem exists in the TradeX code with a reduced test case that should be included in each bug report.
 

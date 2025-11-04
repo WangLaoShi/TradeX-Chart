@@ -136,7 +136,7 @@ this.plot (plots, type, opts )
 
 #### Simple Indicator Example
 
-The following is the bare minimum required to build an indicator. If you examine the default indicators in the [repository](https://github.com/tradex-app/TradeX-chart/tree/master/src/indicators), you will find other variations on this pattern.
+The following is the bare minimum required to build an indicator. If you examine the default indicators in the [repository](https://github.com/tradex-app/TradeX-Chart/tree/master/src/indicators), you will find other variations on this pattern.
 
 ```javascript
 // RSI.js
@@ -319,7 +319,7 @@ export default class CustomRSI extends Indicator {
   /**
    * return inputs required to display indicator legend on chart pane
    * legends can display multiple values
-   * https://tradex-app.github.io/TradeX-chart/reference/legends/
+   * http://www.dtale.cn/TradeX-Chart/reference/legends/
    * @param {Array} [pos=this.chart.cursorPos] - optional
    * @returns {Object} - {inputs, colours, labels}
    */

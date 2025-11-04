@@ -472,7 +472,7 @@ See the [GNU GPL3 license](https://www.gnu.org/licenses/gpl-3.0.en.html) for det
 ### Can I get commercial support?
 
 Currently, support is community-based via:
-- [GitHub Issues](https://github.com/tradex-app/TradeX-chart/issues)
+- [GitHub Issues](https://github.com/tradex-app/TradeX-Chart/issues)
 - [Discord](https://discord.gg/6XS9tDrcdq)
 - Documentation
 
@@ -481,7 +481,7 @@ Currently, support is community-based via:
 ### Where can I get help?
 
 1. **Documentation**: Check these docs first
-2. **GitHub Issues**: [Search existing issues](https://github.com/tradex-app/TradeX-chart/issues)
+2. **GitHub Issues**: [Search existing issues](https://github.com/tradex-app/TradeX-Chart/issues)
 3. **Discord**: [Join the community](https://discord.gg/6XS9tDrcdq)
 4. **Examples**: Review [code examples](../../examples/01_static_chart)
 
@@ -489,7 +489,7 @@ Currently, support is community-based via:
 
 1. Check if it's already reported
 2. Create a minimal reproduction
-3. [Open an issue](https://github.com/tradex-app/TradeX-chart/issues/new)
+3. [Open an issue](https://github.com/tradex-app/TradeX-Chart/issues/new)
 4. Include:
    - TradeX Chart version
    - Browser and OS
@@ -498,7 +498,7 @@ Currently, support is community-based via:
 
 ### How do I request a feature?
 
-[Open a feature request](https://github.com/tradex-app/TradeX-chart/issues/new) with:
+[Open a feature request](https://github.com/tradex-app/TradeX-Chart/issues/new) with:
 - Clear description
 - Use case
 - Example implementation (if possible)

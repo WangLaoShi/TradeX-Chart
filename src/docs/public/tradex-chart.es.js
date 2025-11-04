@@ -24225,7 +24225,7 @@ class W extends oS {
     return e;
   }
   constructor() {
-    super(), this.#D = this, this.#d = W.cnt(), this.logs = !1, this.infos = !1, this.warnings = !1, this.errors = !1, this.timers = !1, this.setID(null), this.#m = b, this.#H = new be(this), this.warn(`!WARNING!: ${Ii} changes to config format, for details please refer to https://github.com/tradex-app/TradeX-chart/blob/master/docs/notices.md`), this.log(`${je} instance count: ${this.inCnt}`), this.oncontextmenu = window.oncontextmenu, this.#O = oo;
+    super(), this.#D = this, this.#d = W.cnt(), this.logs = !1, this.infos = !1, this.warnings = !1, this.errors = !1, this.timers = !1, this.setID(null), this.#m = b, this.#H = new be(this), this.warn(`!WARNING!: ${Ii} changes to config format, for details please refer to https://github.com/tradex-app/TradeX-Chart/blob/master/docs/notices.md`), this.log(`${je} instance count: ${this.inCnt}`), this.oncontextmenu = window.oncontextmenu, this.#O = oo;
     const A = this.#M;
     A.primaryPane = { ...A.primaryPane, ...DM.primaryPane }, this.#L = { ...so };
   }
